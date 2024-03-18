@@ -1,0 +1,27 @@
+﻿  main.cpp
+F:\snimanje\4.Grafika\graf\Sablon\main.cpp(19,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\snimanje\4.Grafika\graf\Sablon\main.cpp(87,53): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+F:\snimanje\4.Grafika\graf\Sablon\main.cpp(139,52): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+F:\snimanje\4.Grafika\graf\Sablon\main.cpp(194,53): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+F:\snimanje\4.Grafika\graf\Sablon\main.cpp(258,51): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+F:\snimanje\4.Grafika\graf\Sablon\main.cpp(577,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\snimanje\4.Grafika\graf\Sablon\main.cpp(577,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\snimanje\4.Grafika\graf\Sablon\main.cpp(577,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\snimanje\4.Grafika\graf\Sablon\main.cpp(577,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\snimanje\4.Grafika\graf\Sablon\main.cpp(577,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\snimanje\4.Grafika\graf\Sablon\main.cpp(578,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\snimanje\4.Grafika\graf\Sablon\main.cpp(578,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\snimanje\4.Grafika\graf\Sablon\main.cpp(578,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\snimanje\4.Grafika\graf\Sablon\main.cpp(578,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\snimanje\4.Grafika\graf\Sablon\main.cpp(578,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\snimanje\4.Grafika\graf\Sablon\main.cpp(579,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\snimanje\4.Grafika\graf\Sablon\main.cpp(579,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\snimanje\4.Grafika\graf\Sablon\main.cpp(579,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\snimanje\4.Grafika\graf\Sablon\main.cpp(579,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\snimanje\4.Grafika\graf\Sablon\main.cpp(579,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\snimanje\4.Grafika\graf\Sablon\main.cpp(580,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\snimanje\4.Grafika\graf\Sablon\main.cpp(580,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\snimanje\4.Grafika\graf\Sablon\main.cpp(580,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\snimanje\4.Grafika\graf\Sablon\main.cpp(580,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\snimanje\4.Grafika\graf\Sablon\main.cpp(580,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Sablon.vcxproj -> F:\snimanje\4.Grafika\graf\Sablon\x64\Debug\Sablon.exe
